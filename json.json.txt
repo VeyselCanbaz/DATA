@@ -1,8 +1,0 @@
-{"kurslar":[
-
-   {"kursadý":"android ile mobil programlama","saatsayisi":""192,"kontenjan":"16"}
-   {"kursadý":"ios ile mobil programlama","saatsayisi":""104,"kontenjan":"16"}
-   {"kursadý":"web programlama","saatsayisi":""192,"kontenjan":"16"}
-   {"kursadý":"c# ile mobil programlama","saatsayisi":""192,"kontenjan":"16"}
-
-]}
